@@ -17,9 +17,13 @@ Fair question. We're concerned about bitcoin being [subverted](https://xcancel.c
 
 ## What do they look like? 
 
+
+### Example 1
 Here's an [example of a Self Merge](https://github.com/bitcoin/bitcoin/commit/40310f5e8cd783a8114dc07224b435497bae6817)
 
 `MarcoFalke` has merged two commits which were written by `MarkoFalke`. This is an example of a self merge.
+
+[Commit 1](https://github.com/bitcoin/bitcoin/pull/21792)
 
 ```
 Merge #21792: test: Fix intermittent issue in p2p_segwit.py

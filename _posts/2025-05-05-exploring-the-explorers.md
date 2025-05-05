@@ -2,6 +2,7 @@
 layout: post
 title: Exploring the Explorers
 date: 2025-05-05 10:29 -0500
+authors: ["itsrealfake", "juansgalt"]
 ---
 
 Recently, we've been discussing how to think about our codebases and how we can improve them to better serve the Bitcoin community.

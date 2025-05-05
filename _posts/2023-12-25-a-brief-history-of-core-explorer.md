@@ -2,9 +2,9 @@
 layout: post
 title: A Brief History of Core Explorer
 date: 2023-12-25 00:00 +0000
-tags: ["historical stuff"]
-
+tags: ["historical stuff", "reference"]
 ---
+
 This post is being updated as the story unfolds for us... and we're just starting to write these details in a public way, so bear with us. or don't. this is an increasingly less rough draft.
 
 ## Original process started a bit before Dec 2023
@@ -63,6 +63,8 @@ If you're used to writing code with others, and coordinating your efforts in a r
 > Or commits by different people in the same PR
 
 > Merges are extremely rarely implementations of BIPs
+
+> Definitely important to keep separate stats on merge commits vs normal commits
 
 
 The script that makes the merge commit, makes the commit on behalf of the maintainer... and the name of the person who actually merged the code. Then the code is shared out as a magnet link.
