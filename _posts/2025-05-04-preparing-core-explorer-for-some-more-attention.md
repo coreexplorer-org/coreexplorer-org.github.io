@@ -4,7 +4,7 @@ title: Preparing Core Explorer for some more attention
 date: 2025-05-04 15:29 -0500
 ---
 
-# A Behind-the-Scenes Look at Our Tools for Exploring the Bitcoin Repository
+# An Introductory Look at Our Tools for Exploring the Bitcoin Repository
 
 At coreexplorer.org, we've been diligently working on tools to provide insights into the Bitcoin repository, fostering transparency and encouraging community involvement. Today, we'd like to give you a detailed look at the three codebases we've developed so far: Repo Explorer, Vibe Explorer, and RepEx. Each of these tools serves a unique purpose and contributes to our overarching goal of creating a comprehensive repository exploration experience.
 
@@ -34,14 +34,6 @@ Our journey began with **Repo Explorer**, a tool designed to extract and process
 ## Our Development Journey
 
 We've made significant strides with these tools, each built in our spare time with a passion for contributing to the Bitcoin ecosystem. Our development journey has been one of exploration and refinement:
-
-- **Repo Explorer** laid the groundwork by providing a practical way to collect and analyze GitHub data. Its success highlighted the need for more sophisticated tools.
-- **Vibe Explorer** allowed us to envision how users might interact with our data, emphasizing the importance of a user-friendly interface.
-- **RepEx** represents our most promising endeavor, offering a deep dive into repository dynamics and contributor interactions. Although it's still in development, it holds tremendous potential for uncovering valuable insights.
-
-## What's Next?
-
-As we continue to refine these tools, we invite the community to explore, provide feedback, and contribute to their development. Our goal is to create a suite of tools that not only meet but exceed the expectations of the Bitcoin community, providing unparalleled insights into the repository's inner workings.icant strides with these tools, each built in our spare time with a passion for contributing to the Bitcoin ecosystem. Our development journey has been one of exploration and refinement:
 
 - **Repo Explorer** laid the groundwork by providing a practical way to collect and analyze GitHub data. Its success highlighted the need for more sophisticated tools.
 - **Vibe Explorer** allowed us to envision how users might interact with our data, emphasizing the importance of a user-friendly interface.
