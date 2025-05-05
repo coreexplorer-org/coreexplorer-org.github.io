@@ -3,6 +3,7 @@ layout: post
 title: Preparing Core Explorer for some more attention
 date: 2025-05-04 15:29 -0500
 authors: ["itsrealfake", "juansgalt"]
+pin: true
 ---
 
 # An Introductory Look at Our Tools for Exploring the Bitcoin Repository

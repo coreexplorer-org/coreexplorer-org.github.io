@@ -3,6 +3,7 @@ layout: post
 title: A Brief History of Core Explorer
 date: 2023-12-25 00:00 +0000
 tags: ["historical stuff", "reference"]
+pin: true
 ---
 
 This post is being updated as the story unfolds for us... and we're just starting to write these details in a public way, so bear with us. or don't. this is an increasingly less rough draft.
