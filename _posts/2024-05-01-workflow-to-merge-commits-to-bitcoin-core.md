@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workflow To Merge Commits To Bitcoin Core
-date: 2025-05-01 00:00 +0000
+date: 2024-05-01 00:00 +0000
 author: juansgalt
 ---
 
