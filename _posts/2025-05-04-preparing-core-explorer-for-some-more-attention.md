@@ -8,7 +8,7 @@ pin: true
 
 # An Introductory Look at Our Tools for Exploring the Bitcoin Repository
 
-You can read the [About](/_tabs/about.md) page.
+You can read the [About](/about/) page.
 
 ## But what else?
 
