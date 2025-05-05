@@ -66,6 +66,9 @@ If you're used to writing code with others, and coordinating your efforts in a r
 
 > Definitely important to keep separate stats on merge commits vs normal commits
 
+### The Merge Script
+
+[Merge Script](https://github.com/bitcoin-core/bitcoin-maintainer-tools/commits/main/github-merge.py) is in the `bitcoin-core/bitcoin-maintainer-tools`
 
 The script that makes the merge commit, makes the commit on behalf of the maintainer... and the name of the person who actually merged the code. Then the code is shared out as a magnet link.
 
@@ -117,4 +120,14 @@ Here's [the history of "trusted keys" of maintainers for bitcoin](https://github
 ### Deadends
 
 We found some deadends too... as the tools have evolved, [people had questions that weren't answered](https://github.com/bitcoin/bitcoin/commit/59ebee3fb4181baf20fab263cf1b587ece1bd5e2#commitcomment-126211284).
+
+### Challenges
+
+We've run into plenty of those:
+
+- tracking committers is hard, because:
+  - they change their email addresses
+  - they change their PGP keys
+  - they change their github names
+  - or github changes formatting of certain details in the API
 
