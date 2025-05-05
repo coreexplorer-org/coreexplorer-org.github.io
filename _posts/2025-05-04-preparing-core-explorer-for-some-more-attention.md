@@ -14,7 +14,7 @@ Our journey began with **Repo Explorer**, a tool designed to extract and process
 
 - **Data Collection**: Repo Explorer scrapes commit and pull request history from the Bitcoin repository on GitHub. This process involves collecting detailed information about each commit and pull request, offering a broad overview of the repository's activity.
 - **Data Export**: The collected data is then processed and exported into a CSV format. This allows users to import the data into spreadsheet tools for further analysis, creating charts, and drawing insights.
-- **Accessibility**: With a GitHub API key, anyone can run the scripts to scrape the repository, making Repo Explorer an accessible entry point for exploring Bitcoin repository data [3].
+- **Accessibility**: With a GitHub API key, anyone can run the scripts to scrape the repository, making Repo Explorer an accessible entry point for exploring Bitcoin repository data.
 
 ## Vibe Explorer: Bringing Data to Life
 
@@ -29,7 +29,7 @@ Our journey began with **Repo Explorer**, a tool designed to extract and process
 
 - **Graph Database**: RepEx utilizes a Neo4j graph database to structure repository data, enabling complex queries and visualizations that reveal patterns and relationships.
 - **Backend Processing**: The server application reads the `.git` subfolder of a repository, creating database nodes and edges that represent the information within. This structured approach allows for in-depth analysis of contributor activities.
-- **API Endpoints**: By developing meaningful API endpoints, RepEx can power informative charts and visualizations on the front end, offering users a rich and insightful experience [3].
+- **API Endpoints**: By developing meaningful API endpoints, RepEx can power informative charts and visualizations on the front end, offering users a rich and insightful experience.
 
 ## Our Development Journey
 
