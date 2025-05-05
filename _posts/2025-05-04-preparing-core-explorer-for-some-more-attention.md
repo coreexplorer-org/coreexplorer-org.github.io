@@ -8,7 +8,11 @@ pin: true
 
 # An Introductory Look at Our Tools for Exploring the Bitcoin Repository
 
-At coreexplorer.org, we've been diligently working on tools to provide insights into the Bitcoin repository, fostering transparency and encouraging community involvement. Today, we'd like to give you a detailed look at the three codebases we've developed so far: Repo Explorer, Vibe Explorer, and RepEx. Each of these tools serves a unique purpose and contributes to our overarching goal of creating a comprehensive repository exploration experience.
+You can read the [About](/_tabs/about.md) page.
+
+## But what else?
+
+At coreexplorer.org, we've been working on tools to provide insights into the Bitcoin repository, fostering transparency and encouraging community involvement. Today, we'd like to give you a detailed look at the three codebases we've developed so far: Repo Explorer, Vibe Explorer, and RepEx. Each of these tools serves a unique purpose and contributes to our overarching goal of creating a comprehensive repository exploration experience.
 
 ## Repo Explorer: Harnessing GitHub API Data
 
